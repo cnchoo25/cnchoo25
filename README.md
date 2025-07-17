@@ -18,10 +18,10 @@
 
 
 
-## contacts
+## Contacts
 you can reach me on cnchoo25@naver.com
 
-## Licenses
+## Certifications
 - Professional Engineer in Quality Management
 - Professional Engineer in Industrial Safety
 - Industrial Engineer in Hazardous Materials
