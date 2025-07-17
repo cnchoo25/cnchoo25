@@ -1,6 +1,6 @@
 # Jiin Chu
 
-📚  bachelor degree of chemical engineering 
+📚  bachelors degree of chemical engineering 
 
 
 
