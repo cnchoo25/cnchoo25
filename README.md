@@ -8,8 +8,7 @@
 
 ## Languages and tools
 ### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&
-logoColor=white" alt="Python Badge">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat" alt="Python Badge">
 
 ### Tools
 <img src="https://img.shields.io/badge/Minitab-00843D?style=flat" alt="Minitab Badge"><img src="https://img.shields.io/badge/AspenTech-005B9F?style=flat&logo=azuredevops&logoColor=white" alt="AspenTech Badge">
