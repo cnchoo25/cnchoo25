@@ -22,10 +22,10 @@
 you can reach me on cnchoo25@naver.com
 
 ## Certifications
-- Professional Engineer in Quality Management
-- Professional Engineer in Industrial Safety
-- Industrial Engineer in Hazardous Materials
+- 품질경영기사
+- 산업안전기사
+- 위험물산업기사
 - ADsP
-- 6 sigma Green Belt
-- ISO 9001 Certification Auditor (Provisional))
+- 6 sigma GB
+- ISO 9001 인증 심사원(보)
 
