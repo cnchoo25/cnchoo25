@@ -1,4 +1,4 @@
-# Jiin Chu's Hub
+# Here's who I am
 
 *bachelors degree of chemical engineering*
 
