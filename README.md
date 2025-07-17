@@ -1,6 +1,6 @@
 # Jiin Chu's Hub
 
-📚  bachelors degree of chemical engineering 
+*bachelors degree of chemical engineering*
 
 
 
