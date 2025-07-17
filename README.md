@@ -22,3 +22,4 @@
 you can reach me on cnchoo25@naver.com
 
 ## License
+`품질경영기사`
