@@ -22,15 +22,10 @@
 you can reach me on cnchoo25@naver.com
 
 ## License
-`Professional Engineer in Quality Management`
-
-`Professional Engineer in Industrial Safety`
-
-`Industrial Engineer in Hazardous Materials`
-
-`ADsP`
-
-`6 sigma Green Belt`
-
-`ISO Certification Auditor (Provisional))`
+- Professional Engineer in Quality Management
+- Professional Engineer in Industrial Safety
+- Industrial Engineer in Hazardous Materials
+- ADsP
+- 6 sigma Green Belt
+- ISO Certification Auditor (Provisional))
 
