@@ -2,9 +2,8 @@
 
 *bachelors degree of chemical engineering*
 
-
-
-![이미지](https://cdn.pixabay.com/photo/2017/08/07/16/36/cat-2605502_1280.jpg)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=(cnchoo))](https://solved.ac/(cnchoo))
 
 ## Languages and tools
 ### Languages
