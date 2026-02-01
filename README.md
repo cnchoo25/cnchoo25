@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🧑‍💻 Chemical Engineer x Developer
+# 🪢 Chemical Engineer x Developer
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=70" width="100%">
 
 <br>
 
 ### 📢 Introduction
-**화학공학 백그라운드를 가진 백엔드 개발자입니다.**<br>
+**화학공학 백그라운드를 가진 프론트 개발자입니다.**<br>
 **데이터를 통해 공정 효율을 높이는 데 관심이 있습니다.**
 
 <br>
@@ -22,12 +22,11 @@
 
 | 🏆 Certifications | 📫 Connect |
 | :--- | :--- |
-| • **Quality Management Engineer** <br> • **Industrial Safety Engineer** <br> • **Ind. Eng. Hazardous Material** <br> • **ADsP** (Data Analytics Professional) <br> • **SQLD** (SQL Developer) <br> • **Six Sigma Green Belt** <br> • **ISO 9001 Provisional Auditor** | • **Email**: cnchoo25@naver.com <br> • **Blog**: [Naver Blog](https://blog.naver.com/cnchoo_) <br> • **Solved.ac**: [Profile Link](https://solved.ac/cnchoo) |
+| • **Quality Management Engineer** <br> • **Industrial Safety Engineer** <br> • **Ind. Eng. Hazardous Material** <br> • **ADsP** (Data Analytics Professional) <br> • **SQLD** (SQL Developer) <br> • **Six Sigma Green Belt** <br> • **ISO 9001 Provisional Auditor** | • **Email**: cnchoo25@naver.com <br> • **Blog**: [Naver Blog](https://blog.naver.com/cnchoo_) <br> • **Solved.ac**: [Profile Link](https://solved.ac/profile/cnchoo) |
 
 <br>
 
 ### 🔥 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=cnchoo&show_icons=true&theme=radical" alt="cnchoo's Github Stats">
 <br>
 <a href="https://solved.ac/cnchoo">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=cnchoo" alt="Solved.ac Profile">
