@@ -2,7 +2,7 @@
 
 # 🧑‍💻 Chemical Engineer x Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!&fontSize=70" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=70" width="100%">
 
 <br>
 
@@ -14,9 +14,9 @@
 <br>
 <br>
 
-| 🏆 Certifications | 📫 Contact |
+| 🏆 Certifications | 📫 Connect |
 | :--- | :--- |
-| • **품질경영기사** <br> • **산업안전기사** <br> • **위험물산업기사** <br> • **ADsP** <br> • **6 Sigma GB** <br> • **ISO 9001 인증 심사원(보)** | • Email: cnchoo25@naver.com <br> • Profile: [Solved.ac](https://solved.ac/cnchoo) |
+| • **Quality Management Engineer** (품질경영기사) <br> • **Industrial Safety Engineer** (산업안전기사) <br> • **Ind. Eng. Hazardous Material** (위험물산업기사) <br> • **ADsP** (Data Analytics Professional) <br> • **Six Sigma Green Belt** <br> • **ISO 9001 Provisional Auditor** | • **Email**: cnchoo25@naver.com <br> • **Solved.ac**: [Profile Link](https://solved.ac/cnchoo) <br> <br> |
 
 <br>
 
